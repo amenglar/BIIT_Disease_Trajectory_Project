@@ -28,9 +28,9 @@
 
 ​	2.3. c18_full_case_events_generated_data10000:
 
-| INFO    | CONTENT                                                      |
-| ------- | ------------------------------------------------------------ |
-| Column  | person_id, dgn, row_number                                   |
-| Disease | C18.2, Z85.0, D63.0, E11.9, C18.7, Z48.0, Z51.1, Z08.0, Z85.0, T81.4 |
+| INFO    | CONTENT                                                                   |
+| ------- | ------------------------------------------------------------------------- |
+| Column  | person_id, dgn, row_number                                                |
+| Disease | C18.2, Z85.0, D63.0, E11.9, C18.7, Z48.0, Z51.1, Z08.0, Z85.0, T81.4, C18.0|
 
 P.S. All disease codes are under **ICD-10**. All the data is not from real word.
