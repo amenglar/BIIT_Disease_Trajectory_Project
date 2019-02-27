@@ -31,6 +31,6 @@
 | INFO    | CONTENT                                                                   |
 | ------- | ------------------------------------------------------------------------- |
 | Column  | person_id, dgn, row_number                                                |
-| Disease | C18.2, Z85.0, D63.0, E11.9, C18.7, Z48.0, Z51.1, Z08.0, Z85.0, T81.4, C18.0, I11.9|
+| Disease | C18.2, Z85.0, D63.0, E11.9, C18.7, Z48.0, Z51.1, Z08.0, N40.0, T81.4, C18.0, I11.9|
 
 P.S. All disease codes are under **ICD-10**. All the data is not from real word.
