@@ -2,11 +2,11 @@
 
 1. **Brief Information**
 
-| INFO         | CONTENT                        |      |
-| ------------ | ------------------------------ | ---- |
-| Timestamp    | 27-02-2019, 12:00 PM           |      |
-| Dataset file | 3                              |      |
-| Size         | 10k patients for each datasets |      |
+| INFO         | CONTENT                        |
+| ------------ | ------------------------------ |
+| Timestamp    | 27-02-2019, 12:00 PM           |
+| Dataset file | 3                              |
+| Size         | 10k patients for each datasets |
 
 
 
